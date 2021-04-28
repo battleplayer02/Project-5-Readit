@@ -1,8 +1,2 @@
-.idea/
-.vscode/
 node_modules/
-build/
-tmp/
-temp/
-/**/*.env
-public/
+client/node_modules
